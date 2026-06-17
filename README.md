@@ -75,4 +75,5 @@ Aplikasi ini dirancang dengan prinsip **Separation of Concerns (SoC)** untuk mem
 ---
 
 ## Disclaimer / Peringatan Akademik
-Aplikasi ini dikembangkan murni sebagai purwarupa akademis untuk pengujian komputasi logika matematika sistem pakar[cite: 1]. Hasil keluaran kalkulasi tidak dapat dijadikan sebagai acuan final diagnosis medis mutlak tanpa adanya validasi laboratorium klinis atau konfirmasi formal dari tenaga medis/dokter spesialis terkait[cite: 1].
+Aplikasi ini dikembangkan murni sebagai purwarupa akademis untuk pengujian komputasi logika matematika sistem pakar[cite: 1]. 
+Hasil keluaran kalkulasi tidak dapat dijadikan sebagai acuan final diagnosis medis mutlak tanpa adanya validasi laboratorium klinis atau konfirmasi formal dari tenaga medis/dokter spesialis terkait[cite: 1].
